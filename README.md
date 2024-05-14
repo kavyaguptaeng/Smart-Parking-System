@@ -4,6 +4,7 @@ Since Our College campus has limited parking. We have made a carpooling website 
 
 This was a 3rd Year Group project in B.Tech CSE
 
+![Home Page](/HomePage.jpg?raw=true "Optional Title")
 
 # Group Members:-
 
