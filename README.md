@@ -1,6 +1,6 @@
 # Smart-Parking-System
 
-Since Our College campus has limited parking. We have made a carpooling website for our college.
+Since Our College campus has limited parking so to adjust that and trying to reduce the number of vehicles. We have made a carpooling website for our college.
 This project is going to impact numerous people across the city.
 This was a 3rd Year Group project in B.Tech CSE.
 
